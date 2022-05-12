@@ -1,10 +1,10 @@
 # magic_cube
 
 #### 介绍
-元宇宙游戏服务端引擎框架
+基于c++17开发的插件框架，编译前必须安装boost、folly三方库
 
 #### 软件架构
-软件架构说明
+![image](https://user-images.githubusercontent.com/13159191/168153445-61f0dbbd-5fb4-4c22-946a-52ea2790f342.png)
 
 
 #### 安装教程
