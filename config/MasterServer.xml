@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+  <!-- log_min_level:0(INFO),1(WARNING),2(ERROR),3(FATAL) -->
+  <log log_buf_secs="0" log_max_size="200" log_min_level="0" log_file_prefix="master_server"/>
+  <plugins>
+    <!--  <plugin name="mysql_plugin" version="1.0.0" dependencies="" description="mysql插件"/>-->
+    <!--  <plugin name="redis_plugin" version="1.0.0" dependencies="" description="redis插件"/>-->
+    <plugin name="network_plugin" version="1.0.0" dependencies="" description="网络插件"/>
+  </plugins>
+</server>

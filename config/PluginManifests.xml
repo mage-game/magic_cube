@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <master_server>
+    <manifest name="mysql_plugin" version="1.0.0" dependencies="" description="日志插件"/>
+    <manifest name="redis_plugin" version="1.0.0" dependencies="" description="配置插件"/>
+    <manifest name="network_plugin" version="1.0.0" dependencies="" description=""/>
+  </master_server>
+</plugins>
